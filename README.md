@@ -4,6 +4,6 @@
 
 ##### Sobre o jogo:
 ##### Basicamente é um jogo simples de nave, com intuito de salvar um amigo e pontuar pos derrubar os inimigos. 
-##### Há dois tipos de inimigos , que ao serem derrubados dao pontos diferentes, helicopetero amarelho pontuando em 100 e o caminhão em 50. E a cada salvamento do aliado é pontuado em um ao resgatados.
+##### Há dois tipos de inimigos , que ao serem derrubados dão pontos diferentes, helicóptero amarelo pontuando em 100 e o caminhão em 50. E a cada salvamento do aliado é pontuado em um ao resgatados.
 
 ###### Feito em conjunto a aulas disponibilizada do bootCamp.
